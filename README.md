@@ -1,4 +1,4 @@
-# Kevernote counters 1
+# Kevernote counters 2
 
 Redux counter, with server-side rendering and disabled JS fallback (aka works
 with JS and without).
