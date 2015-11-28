@@ -3,6 +3,8 @@
 Redux counter, with server-side rendering and disabled JS fallback (aka works
 with JS and without).
 
+Related to [https://github.com/joaomilho/redux-counters1](https://github.com/joaomilho/redux-counters1)
+
 #### Running
 
 After cloning, run:
